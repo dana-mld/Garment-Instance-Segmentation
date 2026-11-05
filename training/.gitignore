@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+wardrobe_dataset/
+labels_tmp/
+labels_final/
+coco_tmp/
+batch_output*/
+batch_output*.zip
+*.pt
+instances_attributes_train2020.json
